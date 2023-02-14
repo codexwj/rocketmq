@@ -1,0 +1,6 @@
+server.port: 8084
+
+rocketmq:
+  name-server: 10.16.17.216:9876
+  producer:
+    group: rocket-demo
